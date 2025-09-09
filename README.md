@@ -37,6 +37,10 @@ It uses:
 - Tanh activation in the final layer to normalize pixel values
 
 ---
+### Results
+
+![Texte alternatif](./result_image/Gen_Box_Line.PNG)
+
 
 ##  Dependencies
 
